@@ -1,79 +1,77 @@
-📊 Digital Marketing Performance Analysis
-Tableau Story Dashboard
-🔍 Project Overview
+# 📊 Digital Marketing Performance Analysis  
+## Tableau Story Dashboard
 
-This repository contains a Tableau Story Dashboard designed to analyze digital marketing performance and customer behavior across multiple campaign channels and customer segments.
-The dashboard combines customer demographics, purchase behavior, loyalty indicators, and campaign metrics to deliver clear, insight-driven visual storytelling.
+---
 
-📂 Data Source
+## 🔍 Project Overview
 
-📌 The dataset used in this project is publicly available data.
-📌 The data is used only for study and analytical purposes.
-📌 No personal, confidential, or sensitive information is included.
+This repository contains a **Tableau Story Dashboard** developed to analyze **digital marketing performance and customer behavior** across multiple campaign channels and customer segments.  
 
-📊 What’s Inside the Tableau Dashboard
+The dashboard integrates customer demographics, purchase behavior, loyalty indicators, and campaign performance metrics to deliver **clear, insight-driven visual storytelling** and support data-driven analysis.
 
-👥 Customer Demographics
+---
 
-🎂 Age distribution analysis by gender
+## 📂 Data Source
 
-💰 Income distribution across customer segments
+- 📌 The dataset used in this project is **publicly available data**
+- 📌 The data is used **only for study and analytical purposes**
+- 📌 No personal, confidential, or sensitive information is included
 
-🚻 Gender-wise customer composition
+---
 
-🛒 Customer Purchase Behavior
+## 📊 What’s Inside the Tableau Dashboard
 
-🔁 Identification of new vs repeat customers
+### 👥 Customer Demographics
+- 🎂 Age distribution analysis by gender  
+- 💰 Income distribution across customer segments  
+- 🚻 Gender-wise customer composition  
 
-📈 Analysis of previous purchase patterns
+### 🛒 Customer Purchase Behavior
+- 🔁 Identification of **new vs repeat customers**  
+- 📈 Analysis of previous purchase patterns  
+- 📊 Customer distribution across purchase ranges  
 
-📊 Customer distribution across purchase ranges
+### ⭐ Loyalty Analysis
+- 🏷️ Customer segmentation into **High Loyalty** and **Low Loyalty** groups  
+- 💡 Comparison of conversion behavior across loyalty segments  
+- 🎯 Identification of high-value customer groups  
 
-⭐ Loyalty Analysis
+### 📣 Digital Marketing Performance
+- 💰 Ad spend comparison across campaign channels  
+- 🌐 Website visits and engagement analysis  
+- 🎯 Conversion performance by campaign channel and campaign type  
 
-🏷️ Customer segmentation into High Loyalty and Low Loyalty groups
+### 🔄 Interactive Exploration
+- 🧭 Filters for gender, campaign channel, campaign type, and loyalty segment  
+- 🔍 Dynamic exploration of customer and campaign insights  
 
-💡 Comparison of conversion behavior across loyalty segments
+---
 
-🎯 Identification of high-value customer groups
+## 💡 Key Insights
 
-📣 Digital Marketing Performance
+- 🔁 Repeat customers demonstrate stronger engagement compared to first-time customers  
+- ⭐ High-loyalty customers show higher conversion behavior  
+- 📣 Campaign performance varies across digital channels, indicating optimization opportunities  
+- 📊 Engagement metrics such as website visits are closely linked to conversion outcomes  
 
-💰 Ad spend comparison across campaign channels
+---
 
-🌐 Website visits and engagement analysis
+## 🛠️ Tools & Skills
 
-🎯 Conversion performance by campaign channel and campaign type
+- 📊 Tableau (Dashboard & Storytelling)  
+- 📈 Data Analytics  
+- 🧠 Customer Analytics  
+- 📣 Digital Marketing Analytics  
+- 📊 Business Intelligence  
 
-🔄 Interactive Exploration
+---
 
-🧭 Filters for gender, campaign channel, campaign type, and loyalty segment
+## ⚠️ Usage Disclaimer
 
-🔍 Dynamic exploration of customer and campaign insights
+📘 This project uses **public data** and is intended **only for study and analytical demonstration purposes**.  
 
-💡 Key Insights
+The dashboards and insights are created to showcase **data analysis, visualization, and storytelling capabilities** and should not be interpreted as real business recommendations.
 
-🔁 Repeat customers demonstrate stronger engagement compared to first-time customers
+---
 
-⭐ High-loyalty customers show higher conversion behavior
-
-📣 Campaign performance varies across digital channels, indicating optimization opportunities
-
-📊 Engagement metrics such as website visits are closely linked to conversion outcomes
-
-🛠️ Tools & Skills
-
-📊 Tableau (Dashboard & Storytelling)
-
-📈 Data Analytics
-
-🧠 Customer Analytics
-
-📣 Digital Marketing Analytics
-
-📊 Business Intelligence
-
-⚠️ Usage Disclaimer
-
-📘 This project is created using public data and is intended only for study and analytical demonstration purposes.
-The insights presented are for visualization and storytelling showcase and should not be considered real business recommendations.
+✨ *Designed to demonstrate structured analytical thinking, effective dashboard design, and insight-driven storytelling using Tableau.*
